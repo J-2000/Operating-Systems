@@ -10,3 +10,9 @@ Another operating system function is the shutting down of computers and mobile d
 This can happen automatically as well when you leave your computer running for long periods of time.
 Some users prefer to shut down their computers or mobile devices manually because of energy concerns, security, or they might want to clear out their memory.
 There are multiple ways to shut down a computer, by using the power button, by using the screen menu and prompts, or by using the keyboard keys.
+
+Providing User Interface
+
+Operating systems also function to provide user interface by controlling you enter in your data and how it is displayed on the screen. 
+Graphical user interfaces allow you to interact with images and menus by clicking buttons or touching the screen.
+Command-Line Interfaces using short hard, special keys, or abbreviations to input data.
