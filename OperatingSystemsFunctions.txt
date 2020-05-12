@@ -3,3 +3,10 @@ Starting Computers and Mobile Devices
 One operating system function is starting or restarting computers or mobile devices. 
 Operating systems need to do this when installing new software or the device might be experiencing internet problems. 
 Sometimes computers or mobile devices can restart automatically when it detects problems.
+
+Shutting Down Computers and Mobile Devices
+
+Another operating system function is the shutting down of computers and mobile devices. 
+This can happen automatically as well when you leave your computer running for long periods of time.
+Some users prefer to shut down their computers or mobile devices manually because of energy concerns, security, or they might want to clear out their memory.
+There are multiple ways to shut down a computer, by using the power button, by using the screen menu and prompts, or by using the keyboard keys.
