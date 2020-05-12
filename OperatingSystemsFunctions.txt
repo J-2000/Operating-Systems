@@ -1,0 +1,5 @@
+Starting Computers and Mobile Devices
+
+One operating system function is starting or restarting computers or mobile devices. 
+Operating systems need to do this when installing new software or the device might be experiencing internet problems. 
+Sometimes computers or mobile devices can restart automatically when it detects problems.
